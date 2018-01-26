@@ -1,0 +1,2 @@
+robot_tutorials
+-DCATKIN_DEVEL_PREFIX=/usr/workspaces/wallE_ws/devel -DCMAKE_INSTALL_PREFIX=/usr/workspaces/wallE_ws/install -G Unix Makefiles
